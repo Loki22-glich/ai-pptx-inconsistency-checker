@@ -1,0 +1,52 @@
+[
+  {
+    "slides": [
+      1,
+      2,
+      "Slide1.jpeg",
+      "Slide2.jpeg"
+    ],
+    "type": "numeric",
+    "description": "Slide 1 states '2x faster' deck creation, while Slide 2 claims '3x faster' deck creation speed."
+  },
+  {
+    "slides": [
+      1,
+      2,
+      "Slide1.jpeg",
+      "Slide2.jpeg"
+    ],
+    "type": "numeric",
+    "description": "Slide 1 indicates '$2M Saved in lost productivity hours', whereas Slide 2 states '$3M saved in lost productivity hours annually'."
+  },
+  {
+    "slides": [
+      1,
+      2,
+      7,
+      "Slide1.jpeg",
+      "Slide2.jpeg",
+      "Slide7.jpeg"
+    ],
+    "type": "numeric",
+    "description": "Slide 1 and Slide 7 claim '15 mins Saved per slide created', but Slide 2 states '20 mins saved per slide created'."
+  },
+  {
+    "slides": [
+      3,
+      "Slide3.jpeg"
+    ],
+    "type": "numeric",
+    "description": "Slide 3 claims '50 Hours Saved Per Consultant Monthly' for Noogat, but the sum of the detailed categories on the same slide (10+12+8+6+4) only totals 40 hours."
+  },
+  {
+    "slides": [
+      4,
+      5,
+      "Slide4.jpeg",
+      "Slide5.jpeg"
+    ],
+    "type": "numeric",
+    "description": "The total monthly hours saved for Copilot and Gamma contradict between Slide 4 and Slide 5. Slide 4 lists a sum of 6 hours for Copilot (2+3+1) and 3.5 hours for Gamma (1+2+0.5), while Slide 5 (visuals) implies higher totals by including additional categories: 7.5 hours for Copilot (2+3+1+1+0.5) and 4.2 hours for Gamma (1+2+0.5+0.5+0.2)."
+  }
+]
