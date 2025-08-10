@@ -5,5 +5,3 @@ __pycache__/
 # Mac system files
 .DS_Store
 
-# Output files
-inconsistencies.json
